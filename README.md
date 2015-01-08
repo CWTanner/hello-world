@@ -1,2 +1,4 @@
 # hello-world
-My Repository
+==============
+Just starting to learn some programing. 
+This was suggested
